@@ -1,0 +1,50 @@
+
+.body{
+	min-height: 5000px;
+}
+
+.h2{
+	font-family: 'Oleo Script', cursive;
+   font-family: 'Viga', sans-serif;
+}
+/* navbar */
+.navbar.container{
+	padding: 10px 0;
+	font-size: 18px;
+}
+.li{
+	font-weight: 500;
+}
+
+.navbar.container .navbar.brand{
+	font-size: 30px;
+	font-family: 'Oleo Script', cursive;
+   font-family: 'Viga', sans-serif;
+}
+
+/* jumbotron  */
+.jumbotron{
+	padding-top: 4rem;
+	background-color:#0cbda5;
+	font-family: 'Oleo Script', cursive;
+   font-family: 'Viga', sans-serif;
+}
+.jumbotron .img {
+	margin-left: 300px;
+}
+
+.jumbotron .img:hover{
+	transform: scale(1.1);
+	transition: 0.5s;
+	
+}
+
+.h1{
+	font-family: 'Oleo Script', cursive;
+   font-family: 'Viga', sans-serif;
+   margin-top: 25px;
+}
+
+
+
+
